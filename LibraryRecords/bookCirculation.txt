@@ -1,0 +1,24 @@
+BOOK BORROWED :
+Harry Potter borrowed To Kill a Mockingbird on Day Count: 0
+BOOK BORROWED :
+Hermoine Granger borrowed 1984 on Day Count: 1
+BOOK BORROWED :
+Ronald Weasley borrowed Pride and Prejudice on Day Count: 2
+BOOK BORROWED :
+Draco Malfoy borrowed The Great Gatsby on Day Count: 3
+BOOK BORROWED :
+Albus Percival Wolfric Brian DumbleDore borrowed Moby-Dick on Day Count: 4
+BOOK RETURNED :
+Harry Potter returned To Kill a Mockingbird on Day Count: 5
+BOOK RETURNED :
+Hermoine Granger returned 1984 on Day Count: 6
+BOOK RETURNED :
+Ronald Weasley returned Pride and Prejudice on Day Count: 7
+BOOK RETURNED :
+Albus Percival Wolfric Brian DumbleDore returned Moby-Dick on Day Count: 8
+BOOK BORROWED :
+Hermoine Granger borrowed To Kill a Mockingbird on Day Count: 9
+BOOK BORROWED :
+Draco Malfoy borrowed The Lord of the Rings on Day Count: 9
+BOOK RETURNED :
+Draco Malfoy returned The Lord of the Rings on Day Count: 78

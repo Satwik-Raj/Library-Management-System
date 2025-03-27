@@ -1,0 +1,51 @@
+9
+10 5 0 0
+Paulo Coelho
+The Alchemist
+available
+Rocco
+9 5 0 0
+J.R.R. Tolkien
+The Lord of the Rings
+available
+George Allen & Unwin
+8 5 0 0
+Gabriel García Márquez
+One Hundred Years of Solitude
+available
+Editorial Sudamericana
+7 5 0 0
+J.D. Salinger
+The Catcher in the Rye
+available
+Little, Brown and Company
+6 5 0 0
+Leo Tolstoy
+War and Peace
+available
+The Russian Messenger
+5 5 0 0
+Herman Melville
+Moby-Dick
+available
+Harper & Brothers
+4 5 1 0
+F. Scott Fitzgerald
+The Great Gatsby
+available
+Charles Scribner's Sons
+3 5 0 0
+Jane Austen
+Pride and Prejudice
+available
+T. Egerton
+2 5 0 0
+George Orwell
+1984
+available
+Secker & Warburg
+1 5 0 0
+Harper Lee
+To Kill a Mockingbird
+available
+J.B. Lippincott & Co.

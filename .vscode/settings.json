@@ -1,0 +1,31 @@
+{
+   "files.associations": {
+      "map": "cpp",
+      "iostream": "cpp",
+      "queue": "cpp",
+      "ostream": "cpp",
+      "typeindex": "cpp",
+      "typeinfo": "cpp",
+      "chrono": "cpp",
+      "text_encoding": "cpp",
+      "ios": "cpp",
+      "vector": "cpp",
+      "__node_handle": "cpp",
+      "__split_buffer": "cpp",
+      "array": "cpp",
+      "deque": "cpp",
+      "forward_list": "cpp",
+      "list": "cpp",
+      "regex": "cpp",
+      "set": "cpp",
+      "span": "cpp",
+      "stack": "cpp",
+      "string": "cpp",
+      "string_view": "cpp",
+      "unordered_map": "cpp",
+      "unordered_set": "cpp",
+      "any": "cpp",
+      "ranges": "cpp",
+      "stacktrace": "cpp"
+   }
+}

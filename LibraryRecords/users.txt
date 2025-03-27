@@ -1,0 +1,20 @@
+L1 40
+Argus Filch
+F3 127
+Minerva Mcgonagall
+F2 31
+Severus Snape
+F1 110
+Albus Percival Wolfric Brian DumbleDore
+S5 19
+Neville Longbottom
+S4 19
+Draco Malfoy
+S3 19
+Ronald Weasley
+S2 19
+Hermoine Granger
+S1 19
+Harry Potter
+S6 18
+Ginny Weasley
